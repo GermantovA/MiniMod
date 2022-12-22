@@ -1,17 +1,16 @@
-# MiniMod
-Hello, this just a little hjson mod for
-Mindustry
+# МиниМод
+Небольшой мод, который добавляет новую планету
 
-Mod adds: 
+Мод содержит:
 
-Units - 2
+Юниты - 2
 
-Items - 1
+Предметы - 2
 
-Sectors - 1
+Секторы - 1
 
-Planets - 1
+Планеты - 1
 
-Schematics - 1
+Схемы - 1
 
-Blocks - 12
+Блоки - 12
