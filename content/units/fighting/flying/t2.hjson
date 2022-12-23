@@ -11,7 +11,20 @@ weapons: [
   {
     y: 0
     x: 1
-    reload: 4
+    reload: 1
+    bullet: { 
+      damege: 10
+      speed: 2.5
+      lifetime: 45
+      frontColor: 80a8ff
+      trailColor: 80a8ff
+      trailLength: 5
+    }
+  }
+  {
+    y: 0
+    x: 1
+    reload: 1
     bullet: { 
       damege: 10
       speed: 2.5
