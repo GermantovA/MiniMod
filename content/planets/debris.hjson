@@ -6,10 +6,10 @@ mesh: {
   color1: 1a200d
   color2: 413a31
   colorScale: 2
-  radius: 0.3
+  radius: 0.5
   octaves: 5
   persistence: 1
-  scale: 0.2
+  scale: 4
   mag: 1.5
 }
 sectorSize: 2
