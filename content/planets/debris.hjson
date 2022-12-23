@@ -7,10 +7,10 @@ mesh: {
   color2: 413a31
   colorScale: 2
   radius: 0.4
-  octaves: 3
+  octaves: 1
   persistence: 1
   scale: 1
-  mag: 1.5
+  mag: 0.5
 }
 sectorSize: 1
 generator: {
