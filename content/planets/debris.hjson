@@ -9,7 +9,7 @@ mesh: {
   radius: 0.8
   octaves: 5
   persistence: 1
-  scale: 0.5
+  scale: 2
   mag: 1.5
 }
 sectorSize: 1
