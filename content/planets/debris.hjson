@@ -17,7 +17,7 @@ generator: {
 
 }
 orbitSpacing: 6
-orbitRadius: 25
+orbitRadius: 10
 raradius: 0.4
 minZoom: 1
 maxZoom: 4
@@ -38,7 +38,7 @@ clearSectorOnLose: true
 allowLaunchSchematics: true
 allowWaves: true
 defaultCore: core-mini
-parent: sun
+parent: octavia
 alwaysUnlocked: true
 hiddenItems: [
     scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
