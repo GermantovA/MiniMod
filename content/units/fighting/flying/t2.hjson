@@ -1,9 +1,9 @@
 speed: 1.5
 accel: 0.1
-drag: 0.05
+drag: 01
 hitSize: 12
 flying: true
-health: 45
+health: 70
 engineOffset: 2
 itemCapacity: 5
 outlineColor: 000000
