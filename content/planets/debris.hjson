@@ -6,13 +6,13 @@ mesh: {
   color1: 1a200d
   color2: 413a31
   colorScale: 2
-  radius: 0.5
+  radius: 0.8
   octaves: 5
   persistence: 1
-  scale: 4
+  scale: 1
   mag: 1.5
 }
-sectorSize: 2
+sectorSize: 1
 generator: {
 
 }
@@ -38,7 +38,7 @@ clearSectorOnLose: true
 allowLaunchSchematics: true
 allowWaves: true
 defaultCore: core-mini
-parent: octavia
+parent: sun
 alwaysUnlocked: true
 hiddenItems: [
     scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
