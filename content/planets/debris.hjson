@@ -38,7 +38,7 @@ clearSectorOnLose: true
 allowLaunchSchematics: true
 allowWaves: true
 defaultCore: core-mini
-parent: Octavia
+parent: Sun
 alwaysUnlocked: true
 hiddenItems: [
     scrap, copper, lead, graphite, coal, titanium, thorium, silicon, plastanium, sand, metaglass, beryllium, tungsten, carbide
