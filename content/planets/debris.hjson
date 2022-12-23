@@ -16,9 +16,9 @@ sectorSize: 1
 generator: {
 
 }
-orbitSpacing: 12
+orbitSpacing: 6
 orbitRadius: 25
-raradius: 0.8
+raradius: 0.4
 minZoom: 1
 maxZoom: 4
 drawOrbit: true
